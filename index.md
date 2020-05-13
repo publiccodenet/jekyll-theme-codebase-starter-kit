@@ -1,16 +1,15 @@
 ---
 title: Bulma Clean Theme
-subtitle: Dit is een demo site voor het Bulma Clean Team
+subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 callouts: home_callouts
 show_sidebar: true
-lang: nl
+lang: en
 permalink: /
+
 ---
 
 # Bulma Clean Theme demo website
-
-Dit is de Nederlands talige pagina
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages.
 

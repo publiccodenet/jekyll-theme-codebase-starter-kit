@@ -6,7 +6,7 @@ description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: ""
 url: "https://www.csrhymes.com"
-#permalink: pretty
+permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
 
@@ -78,7 +78,7 @@ collections:
     show_sidebar: false
 
 languages: ["en", "nl"]
-default_lang: "nl"
+default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "README.md"]
 parallel_localization: true
 lang_from_path: true
