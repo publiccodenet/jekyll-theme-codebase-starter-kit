@@ -1,13 +1,13 @@
 # Site Settings
 title: Codebase
-tagline: Keep the code a
+tagline: We enable public-purpose software and policy that is open and collaborative.
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  A demo site for supporting Foundation for Public Code Codebases , made for Jekyll and GitHub pages websites
 baseurl: ""
 url: "https://www.csrhymes.com"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
 
 paginate: 5

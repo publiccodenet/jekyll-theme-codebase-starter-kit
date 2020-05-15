@@ -1,27 +1,27 @@
-- name: Pages
+- name: Pagina
   link: /#
   dropdown:
-    - name: Page With Sidebar
+    - name: Pagina met sidebar
       link: /page-1/
-    - name: Page No Sidebar
+    - name: Pagina zonder Sidebar
       link: /page-2/
-    - name: Page With Menubar
+    - name: Pagina Met Menubar
       link: /page-3/
-    - name: Page With Tabs
+    - name: Pagina met Tabs
       link: /page-4/
-    - name: Page Without Footer
+    - name: Pagina zonder footer
       link: /page-5/
-    - name: Page Without Hero
+    - name: Pagina zonder Hero
       link: /page-without-hero/
-    - name: Page With Contents
+    - name: Pagina Met Inhoud
       link: /page-with-contents/
     - name: Landing Page With Callouts
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
-- name: Products
+- name: Producten
   link: /products/
-- name: Showcase
+- name: Cases
   link: /showcase/
 - name: Blog
   link: /blog/

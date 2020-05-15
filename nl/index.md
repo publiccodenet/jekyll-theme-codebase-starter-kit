@@ -6,10 +6,9 @@ hero_height: is-large
 hero_link: /page-1/
 hero_link_text: Voorbeeld Call To Action
 show_sidebar: false
-callouts: example_callouts_nl
+callouts: example_callouts
 permalink: /
-language : en
-
+language : nl
 ---
 
 ## Algemene pagina content
