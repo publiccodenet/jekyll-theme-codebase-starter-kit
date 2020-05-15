@@ -39,6 +39,48 @@
                     <span>Sponsor</span>
                 </a>
                 {% endif %}
+
+                <div class="navbar-item">
+                  <span class="icon"><i class="fas fa-search"></i></span>
+                </div>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+
+                  <input type="text"  id="search-input" placeholder="Type to Search... ">
+
+                                        <div class="navbar-dropdown">
+
+                                          <ul id="results-container"></ul>
+
+                                        </div>
+                                    </div>
+
+                    <div class="navbar-item">
+                        <span class="icon"><i class="fas fa-language"></i></span>
+                            <div class="navbar-item has-dropdown is-hoverable">
+
+                              {% if page.name contains "index" %}
+
+                                <a class="navbar-link" href="{{ site.baseurl }} /">EN</a>
+                                <div class ="navbar-dropdown">
+                                    <a class="navbar-item"  href="{{ site.baseurl | append: "/nl" }}">NL</a>
+                                </div>
+
+                                {% else %}
+                                        <a class="navbar-link" href="{{ site.baseurl | append: page.handle }}">EN</a>
+                                        <div class ="navbar-dropdown">
+                                          <a class="navbar-item" href="{{ site.baseurl | append: "/nl" | append: page.handle }}">NL</a>
+                                        </div>
+
+
+
+                              {% endif %}
+                                </div>
+
+
+
+                      </div>
+
             </div>
 
         </div>
