@@ -1,5 +1,15 @@
 ---
 ---
+/* Full list of variables for CSS style overrides can be found here :
+http://versions.bulma.io/0.7.0/documentation/overview/variables/
+*/
+
+/*font used */
+$family-primary: 'Muli', sans-serif;
+
+/* primary color used within site*/
+$primary: white;
 
 // Import Main CSS file from theme
 @import "main";
+@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700');
