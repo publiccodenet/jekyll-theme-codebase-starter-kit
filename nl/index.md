@@ -5,7 +5,7 @@ subtitle: Slogan voor de Codebase
 hero_height: is-large
 hero_link: /page-1/
 hero_link_text: Voorbeeld Call To Action
-hero_image: img/codebasesteward.svg
+hero_image: /img/codebasesteward.svg
 show_sidebar: false
 callouts: example_callouts
 permalink: /
