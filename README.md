@@ -9,18 +9,38 @@ Official manual of this theme can be found at:
 https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md
 
 Following features where added:
+
 * Multi language support using Polyglot plugin including multi lingual switcher (https://github.com/mrzool/polyglot-jekyll)
 * Simple-Jekyll-Search based on https://github.com/christian-fei/Simple-Jekyll-Search
 * Collection of communities to present organizations using the Codebase
 * Collection of vendors who can support organization with implementing a codebase into a organization
 
-# Multi-language support
+# Short Manual
+Below is a short manual explaining the specific structure and configurations made for using this theme to create a website to support a codebase.
+
+## Installation
+To set up your environment to develop this theme, run `bundle install`.
+
+Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+
+## Site structure
+
+## configuration
+
+## Multi-language support and how it works
+
+## Overriding theme CSS styles
+
+## Notes
 @TODO: create more complete documentation
 
 This theme is capable of supporting multiple languages. describe config
 Default language is EN and can be set in ``
 
 # Original Manual
+For the most up-to-date version please refer to: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md.  
+Below is a copy of the manual based on the version this theme is orginally based on.
 
 * [Installation](#installation)
 * [Usage](#usage)
