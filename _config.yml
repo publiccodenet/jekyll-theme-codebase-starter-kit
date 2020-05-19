@@ -76,6 +76,18 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+  community:
+    output: true
+    layout: communities
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
+  support:
+    output: true
+    layout: support
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
+
+repository_url: https://github.com/publiccodenet/jekyll-theme
 
 #localization settings here
 

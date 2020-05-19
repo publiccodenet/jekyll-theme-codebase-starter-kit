@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Creating A Showcase Datafile
 
-Create a datafile in your sites `_data` directory in the following format. Subtitle, features and tags are not required. 
+Create a datafile in your sites `_data` directory in the following format. Subtitle, features and tags are not required.
 
 The description text accepts markdown and is run through the markdownify filter on the page.
 
@@ -22,7 +22,7 @@ To change the default styles of the features, set `features_styles`. This uses t
 ```yaml
 intro: |-
   This is some introduction text for the showcases.
-  
+
   ## Example Heading
   It can convert markdown format
 
@@ -45,7 +45,7 @@ items:
 
 ## Displaying the Showcase
 
-Set the showcase in the page's front matter to be the name of the showcase data file without the extension. This gives you the ability to create multiple showcases to be used on different pages. 
+Set the showcase in the page's front matter to be the name of the showcase data file without the extension. This gives you the ability to create multiple showcases to be used on different pages.
 
 ```yaml
 title: Showcase
@@ -54,6 +54,3 @@ layout: page
 showcase: showcase_example
 show_sidebar: false
 ```
-
-
-

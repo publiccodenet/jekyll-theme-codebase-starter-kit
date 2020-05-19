@@ -2,7 +2,7 @@
 layout: page
 title: Codebase
 subtitle: Pay off for Codebase
-hero_height: is-large
+hero_height: is-medium
 hero_link: /page-1/
 hero_link_text: Example Call To Action
 hero_image: /img/codebasesteward.svg

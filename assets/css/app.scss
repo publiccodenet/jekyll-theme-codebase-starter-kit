@@ -1,6 +1,8 @@
 ---
 ---
-/* Full list of variables for CSS style overrides can be found here :
+/*
+Here you can override the default CSS styles of this theme. Make sure to put all overrides BEFORE the @import "main" line.
+Full list of variables for CSS style overrides can be found here :
 http://versions.bulma.io/0.7.0/documentation/overview/variables/
 */
 
@@ -9,6 +11,12 @@ $family-primary: 'Muli', sans-serif;
 
 /* primary color used within site*/
 $primary: white;
+
+/* Remove border from text input */
+input, select, textarea {
+    margin: 0;
+    border: 0px none;
+}
 
 // Import Main CSS file from theme
 @import "main";
