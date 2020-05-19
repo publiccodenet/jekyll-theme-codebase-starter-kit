@@ -87,7 +87,7 @@ collections:
     image: https://via.placeholder.com/800x600
     show_sidebar: false
 
-repository_url: https://github.com/publiccodenet/jekyll-theme
+repository_url: https://github.com/publiccodenet/jekyll-theme-codebase-starter-kit
 
 #localization settings here
 
