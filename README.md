@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jekyll-theme-codebase-starter-kit
 
 This is a theme which can be used a starting point to created a product website supporting a codebase.
