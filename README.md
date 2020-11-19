@@ -1,3 +1,10 @@
+```As we are moving towards adopting the common design system NL templates in combination with gatsby for Signalen.org and OpenZaak this repository has become obsolete.
+
+In due time we will discuss if new starter kit will be created based on the above stack to accommodate future website for codebases.
+
+This repository will be archived and read-only
+```
+
 # jekyll-theme-codebase-starter-kit
 
 This is a theme which can be used a starting point to created a product website supporting a codebase.
